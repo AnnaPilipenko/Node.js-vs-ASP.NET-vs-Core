@@ -1,6 +1,5 @@
 // This script will boot app.js with the number of workers
 // specified in WORKER_COUNT.
-//
 // The master will respond to SIGHUP, which will trigger
 // restarting all the workers and reloading the app.
 
